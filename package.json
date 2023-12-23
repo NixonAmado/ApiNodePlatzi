@@ -28,5 +28,8 @@
   },
   "eslintConfig": {
     "extends": "standard"
+  },
+  "engines":{
+    "node": "18.18.2"
   }
 }
